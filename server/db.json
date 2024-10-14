@@ -32,7 +32,7 @@
           "rgba(54, 54, 64, 1.00)"
         ],
         "height": 480,
-        "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/1333549eac1ff1f91b4443e0dc910c3a"
+        "url": "https://traveladdicts.net/wp-content/uploads/2016/04/Amsterdam-canal-768x512.jpg.webp"
       },
       "xl_picture_url": "https://a0.muscache.com/im/pictures/74942550/415cd752_original.jpg?aki_policy=x_large",
       "host_id": "1195000",
@@ -49,12 +49,7 @@
       "host_neighbourhood": null,
       "host_listings_count": 1,
       "host_total_listings_count": 1,
-      "host_verifications": [
-        "email",
-        "phone",
-        "facebook",
-        "reviews"
-      ],
+      "host_verifications": ["email", "phone", "facebook", "reviews"],
       "street": "Amsterdam, Noord-Holland 1054, Netherlands",
       "neighbourhood": null,
       "neighbourhood_cleansed": "De Baarsjes - Oud-West",
@@ -119,9 +114,7 @@
         "lon": 2.35,
         "lat": 48.86
       },
-      "features": [
-        "Host Has Profile Pic"
-      ]
+      "features": ["Host Has Profile Pic"]
     },
     {
       "id": "9192415",
@@ -155,7 +148,7 @@
           "rgba(165, 155, 145, 1.00)"
         ],
         "height": 426,
-        "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/1293262ae799ac118c65bc0ef90bc3b8"
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn-rfE-xIltjB8BG4R590Z9n9X3gssAG8EmqE5smeGKsAZ2mPsm9bRDt_FEzvYnCECpXU&usqp=CAU"
       },
       "xl_picture_url": "https://a0.muscache.com/im/pictures/eb9e20e1-9c88-43fb-9e0a-e634dfc6e35a.jpg?aki_policy=x_large",
       "host_id": "47820987",
@@ -296,7 +289,7 @@
           "rgba(88, 85, 66, 1.00)"
         ],
         "height": 426,
-        "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/5e156e2781e2590c7ae14b30516a919a"
+        "url": "data:image/jpeg;base64,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"
       },
       "xl_picture_url": "https://a0.muscache.com/im/pictures/10232036/f44402fc_original.jpg?aki_policy=x_large",
       "host_id": "3897376",
@@ -312,11 +305,7 @@
       "host_neighbourhood": "Oud-West",
       "host_listings_count": 3,
       "host_total_listings_count": 3,
-      "host_verifications": [
-        "email",
-        "phone",
-        "reviews"
-      ],
+      "host_verifications": ["email", "phone", "reviews"],
       "street": "Oud-West, Amsterdam, North Holland 1054, Netherlands",
       "neighbourhood": "Oud-West",
       "neighbourhood_cleansed": "De Baarsjes - Oud-West",
@@ -385,10 +374,7 @@
         "lon": 4.875639539930118,
         "lat": 52.36456756846072
       },
-      "features": [
-        "Host Has Profile Pic",
-        "Is Location Exact"
-      ]
+      "features": ["Host Has Profile Pic", "Is Location Exact"]
     },
     {
       "id": "13153299",
@@ -422,7 +408,7 @@
           "rgba(120, 119, 120, 1.00)"
         ],
         "height": 426,
-        "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/7139bb0ddfd791f6b68f9e6462afe974"
+        "url": "data:image/jpeg;base64,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"
       },
       "xl_picture_url": "https://a0.muscache.com/im/pictures/4aad80ac-8a8f-465d-873c-04c951304180.jpg?aki_policy=x_large",
       "host_id": "17633423",
@@ -563,7 +549,7 @@
           "rgba(174, 137, 107, 1.00)"
         ],
         "height": 480,
-        "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/3bfbda897a5a3ef02a761d3edb784dfd"
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf0c8lcVAGrX7yoqWCoHdpow87-HumpkFh2w&s"
       },
       "xl_picture_url": "https://a0.muscache.com/im/pictures/10553335/64dc1cd3_original.jpg?aki_policy=x_large",
       "host_id": "1446698",
@@ -692,7 +678,7 @@
           "rgba(127, 137, 125, 1.00)"
         ],
         "height": 480,
-        "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/6351fdb41e5c30c168b2488e052d032f"
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCgWh_Mgo-ceHZqet_gDP6CT_whomDo3MQyA&s"
       },
       "xl_picture_url": "https://a0.muscache.com/im/pictures/0cfd0182-b3b2-42cf-902f-24cb73a6c82e.jpg?aki_policy=x_large",
       "host_id": "36775877",
@@ -709,10 +695,7 @@
       "host_neighbourhood": null,
       "host_listings_count": 1,
       "host_total_listings_count": 1,
-      "host_verifications": [
-        "email",
-        "reviews"
-      ],
+      "host_verifications": ["email", "reviews"],
       "street": "Amsterdam, North Holland, Netherlands",
       "neighbourhood": null,
       "neighbourhood_cleansed": "De Baarsjes - Oud-West",
@@ -782,9 +765,7 @@
         "lon": 4.865594943841575,
         "lat": 52.36667871194905
       },
-      "features": [
-        "Host Has Profile Pic"
-      ]
+      "features": ["Host Has Profile Pic"]
     },
     {
       "id": "13465532",
@@ -818,7 +799,7 @@
           "rgba(103, 91, 72, 1.00)"
         ],
         "height": 480,
-        "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/065e90eb568e7e4e34733eb9d6f3ec76"
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4eI8QPHbeqlx_MtGAvMctTPj3A9810wjya_lhUIXmLf6-VfSdAaiOuX1GxdEppuYE6TM&usqp=CAU"
       },
       "xl_picture_url": "https://a0.muscache.com/im/pictures/fe92d866-4365-4267-b894-0f75511a6d41.jpg?aki_policy=x_large",
       "host_id": "15625753",
@@ -949,7 +930,7 @@
           "rgba(86, 79, 77, 1.00)"
         ],
         "height": 426,
-        "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/089848e03bb2b3b495ad7dc8f7640af4"
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRdR7pgNSX8Fojiu7RpZCLJBL9i5L18bkqyA&s"
       },
       "xl_picture_url": "https://a0.muscache.com/im/pictures/440cb88b-6a93-48bc-b87f-78675ea40c60.jpg?aki_policy=x_large",
       "host_id": "14694975",
@@ -966,11 +947,7 @@
       "host_neighbourhood": null,
       "host_listings_count": 0,
       "host_total_listings_count": 0,
-      "host_verifications": [
-        "email",
-        "phone",
-        "reviews"
-      ],
+      "host_verifications": ["email", "phone", "reviews"],
       "street": "Amsterdam, NH 1056, Netherlands",
       "neighbourhood": null,
       "neighbourhood_cleansed": "De Baarsjes - Oud-West",
@@ -1044,9 +1021,7 @@
         "lon": 4.853345068114508,
         "lat": 52.37080138742488
       },
-      "features": [
-        "Host Has Profile Pic"
-      ]
+      "features": ["Host Has Profile Pic"]
     },
     {
       "id": "7890890",
@@ -1080,7 +1055,7 @@
           "rgba(100, 85, 71, 1.00)"
         ],
         "height": 426,
-        "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/c919a478a118cdd7466dd153867817c7"
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTsqTTHB0Q8xsc82Jry2nGUR3XeFy1wZRqHA&s"
       },
       "xl_picture_url": "https://a0.muscache.com/im/pictures/101261468/5be05a66_original.jpg?aki_policy=x_large",
       "host_id": "25049789",
@@ -1097,12 +1072,7 @@
       "host_neighbourhood": "Oud-West",
       "host_listings_count": 1,
       "host_total_listings_count": 1,
-      "host_verifications": [
-        "email",
-        "phone",
-        "reviews",
-        "jumio"
-      ],
+      "host_verifications": ["email", "phone", "reviews", "jumio"],
       "street": "Oud-West, Amsterdam, Noord-Holland 1054, Netherlands",
       "neighbourhood": "Oud-West",
       "neighbourhood_cleansed": "De Baarsjes - Oud-West",
@@ -1219,7 +1189,7 @@
           "rgba(155, 151, 136, 1.00)"
         ],
         "height": 426,
-        "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/2e202e79e908a132d144cc32168fcfc3"
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy9WHUGKAviK_S3pE2UgqqUav50CVY5Xw8t0cYT9c4o0Lff21_OCPYmFytUCk9b6Jm9Os&usqp=CAU"
       },
       "xl_picture_url": null,
       "host_id": "40565986",
@@ -1236,12 +1206,7 @@
       "host_neighbourhood": "Oud-West",
       "host_listings_count": 2,
       "host_total_listings_count": 2,
-      "host_verifications": [
-        "email",
-        "phone",
-        "reviews",
-        "jumio"
-      ],
+      "host_verifications": ["email", "phone", "reviews", "jumio"],
       "street": "Oud-West, Amsterdam, Noord-Holland 1057, Netherlands",
       "neighbourhood": "Oud-West",
       "neighbourhood_cleansed": "De Baarsjes - Oud-West",
