@@ -1323,5 +1323,24 @@
       ]
     }
   ],
-  "bookmarks": []
+  "bookmarks": [
+    {
+      "cityName": "La Flamengrie",
+      "country": "France",
+      "countryCode": "FR",
+      "latitude": "50.021327636329886",
+      "longitude": "3.9209175109863286",
+      "host_location": "La Flamengrie France",
+      "id": 1
+    },
+    {
+      "cityName": "Feron",
+      "country": "France",
+      "countryCode": "FR",
+      "latitude": "50.056057322174716",
+      "longitude": "4.03249740600586",
+      "host_location": "Feron France",
+      "id": 2
+    }
+  ]
 }
