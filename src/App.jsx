@@ -12,29 +12,42 @@ import Bookmark from "./components/Bookmark/Bookmark";
 import BookmarkLayout from "./components/BookmarkLayout/BookmarkLayout";
 import SingleBookmark from "./components/SingleBookmark/SingleBookmark";
 import AddNewBookmark from "./components/AddNewBookmark/AddNewBookmark";
+import Login from "./components/Login/Login";
+import AuthProvider from "./components/context/AuthProvider";
+import ProtectedRoute from "./components/ProtectedRoute/ProtectedRoute";
 function App() {
   return (
-    <BookmarkListProvider>
-      <HotelsProvider>
-        <Toaster />
-        <Header />
-        <Routes>
-          <Route path="/" element={<LocationList />} />
+    <AuthProvider>
+      <BookmarkListProvider>
+        <HotelsProvider>
+          <Toaster />
+          <Header />
+          <Routes>
+            <Route path="/" element={<LocationList />} />
 
-          <Route path="/hotels" element={<AppLayout />}>
-            <Route index element={<Hotels />} />
-            <Route path=":id" element={<SingleHotel />} />
-          </Route>
+            <Route path="/hotels" element={<AppLayout />}>
+              <Route index element={<Hotels />} />
+              <Route path=":id" element={<SingleHotel />} />
+            </Route>
 
-          <Route path="/bookmark" element={<BookmarkLayout />}>
-            <Route index element={<Bookmark />} />
-            <Route path=":id" element={<SingleBookmark />} />
+            <Route
+              path="/bookmark"
+              element={
+                <ProtectedRoute>
+                  <BookmarkLayout />
+                </ProtectedRoute>
+              }
+            >
+              <Route index element={<Bookmark />} />
+              <Route path=":id" element={<SingleBookmark />} />
 
-            <Route path="add" element={<AddNewBookmark />} />
-          </Route>
-        </Routes>
-      </HotelsProvider>
-    </BookmarkListProvider>
+              <Route path="add" element={<AddNewBookmark />} />
+            </Route>
+            <Route path="/login" element={<Login />} />
+          </Routes>
+        </HotelsProvider>
+      </BookmarkListProvider>
+    </AuthProvider>
   );
 }
 
